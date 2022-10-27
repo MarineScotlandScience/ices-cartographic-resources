@@ -7,4 +7,4 @@ Point data is centroids of geographic units. Line data is the outlines of geogra
 Data is derived from information © ICES Spatial Facility, ICES, Copenhagen.  
 https://ices.dk/data/maps/Pages/default.aspx#:~:text=Maps%20and%20spatial%20layers%20are%20used%20in%20ICES,of%20data%20collection%20and%20the%20visualization%20of%20data. Please see the ICES Data Policy https://ices.dk/data/Documents/ICES-Data-policy.pdf
 
-This data is intended for cartographic purposes and is used by the Marine Scotland GIS team for internal mapping. Any errors should be hightlighted to ms.gis@gov.scot 
+This data is intended for cartographic purposes and should not be considered definitive ICES boundaries.
